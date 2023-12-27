@@ -1,4 +1,4 @@
-<h1>Hi, I'm Duvane Leroy Marshall!</h1>
+<h1>Hi, I'm Duvane!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
