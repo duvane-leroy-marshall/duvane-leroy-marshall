@@ -4,6 +4,8 @@
 
 - <b>Intro to Network Traffic Analysis (HackTheBox Academy)</b>
   - [Practicing Using Tcpdump and Wireshark](https://github.com/duvane-leroy-marshall/NTA-Lab)
+- <b>Introduction to Active Directory (HackTheBox Academy)</b>
+  - [Active Directory Management](https://github.com/duvane-leroy-marshall/ActiveDirectory-Lab)
 
 <h2>:page_with_curl: Certificates</h2>
 
