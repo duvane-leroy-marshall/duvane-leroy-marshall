@@ -6,6 +6,8 @@
   - [Practicing Using Tcpdump and Wireshark](https://github.com/duvane-leroy-marshall/NTA-Lab)
 - <b>Introduction to Active Directory (HackTheBox Academy)</b>
   - [Active Directory Management](https://github.com/duvane-leroy-marshall/ActiveDirectory-Lab)
+- <b>Windows Event Logs & Finding Evil (HackTheBox Academy)</b>
+  - [Investigating Malicious Activities with Windows Event Logs](https://github.com/duvane-leroy-marshall/WindowsEventLogs-Lab)
 
 <h2>:page_with_curl: Certificates</h2>
 
