@@ -12,6 +12,8 @@
 <h2>:page_with_curl: Certificates</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/12f55680dbeb95e54597c00354eae896)
+- Currently enrolled in the SOC Analyst path on HackTheBox Academy:
+  - [SOC Analyst Job Role Path](https://academy.hackthebox.com/path/preview/soc-analyst)
 
 <h2>:page_facing_up: Resume</h2>
 
